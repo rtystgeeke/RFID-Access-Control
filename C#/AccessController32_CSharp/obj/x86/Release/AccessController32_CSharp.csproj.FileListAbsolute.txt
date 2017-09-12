@@ -1,0 +1,7 @@
+F:\Project2016\ZN2000\开发包\针对TL系列开发包\32_EN\C#\AccessController32_CSharp\obj\x86\Release\AccessController32_CSharp.Form1.resources
+F:\Project2016\ZN2000\开发包\针对TL系列开发包\32_EN\C#\AccessController32_CSharp\obj\x86\Release\AccessController32_CSharp.Properties.Resources.resources
+F:\Project2016\ZN2000\开发包\针对TL系列开发包\32_EN\C#\AccessController32_CSharp\obj\x86\Release\AccessController32_CSharp.csproj.GenerateResource.Cache
+F:\Project2016\ZN2000\开发包\针对TL系列开发包\32_EN\C#\AccessController32_CSharp\bin\Release\AccessController32_CSharp.exe
+F:\Project2016\ZN2000\开发包\针对TL系列开发包\32_EN\C#\AccessController32_CSharp\bin\Release\AccessController32_CSharp.pdb
+F:\Project2016\ZN2000\开发包\针对TL系列开发包\32_EN\C#\AccessController32_CSharp\obj\x86\Release\AccessController32_CSharp.exe
+F:\Project2016\ZN2000\开发包\针对TL系列开发包\32_EN\C#\AccessController32_CSharp\obj\x86\Release\AccessController32_CSharp.pdb
